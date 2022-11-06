@@ -1,24 +1,31 @@
 enable  : true
-title   : WHAT WE LOVE TO DO
-subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perspiciatis porro recusandae non quibusdam iure adipisci.
+title   : SERVICES WE OFFER
+subtitle:
 image   : images/team.jpg
 serviceItem :
-  - icon  : ion-ios-paper-outline
-    title : BRANDING
+  - icon  : images/service/advisory.png
+    title : ADVISORY
     description: >
-      Veritatis eligendi, dignissimos. Porta fermentum mus aute pulvinar earum minus platea massa feugiat rutrum urna facilisi ipsameum
+      We provide expert consulting on all aspects of data engineering,
+       from data acquisition and ETL to data warehousing and business intelligence.
+      Our team of experienced data engineers will work with you to build a robust,
+       scalable data infrastructure that can support your growing business needs.
 
-  - icon  : ion-ios-pint-outline
-    title : DESIGN
+
+  - icon  : images/service/delivery.png
+    title : DELIVERY
     description: >
-      Veritatis eligendi, dignissimos. Porta fermentum mus aute pulvinar earum minus platea massa feugiat rutrum urna facilisi ipsameum
+      With our extensive experience in the field,
+       we work closely with you to understand your business goals and objectives.
+       We then develop and implement a solution that fits your budget and timeline.
+       Our goal is to provide you with a stress-free experience
+       so that you can focus on what you do best – running your business.
 
-  - icon  : ion-ios-paper-outline
+  - icon  : images/service/development.png
     title : DEVELOPMENT
     description: >
-      Veritatis eligendi, dignissimos. Porta fermentum mus aute pulvinar earum minus platea massa feugiat rutrum urna facilisi ipsameum
-
-  - icon  : ion-ios-paper-outline
-    title : THEMEING
-    description: >
-      Veritatis eligendi, dignissimos. Porta fermentum mus aute pulvinar earum minus platea massa feugiat rutrum urna facilisi ipsameum
+      We offer a variety of training and support services
+       for our clients so they can keep their skills up-to-date.
+       Our goal is to help our clients implement and maintain best
+       practice solutions that will improve their productivity and efficiency.
+       We would be happy to discuss your needs and provide you with a proposal outlining our services.
