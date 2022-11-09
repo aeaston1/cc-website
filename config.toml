@@ -34,11 +34,10 @@ summarylength = 25
   dateFormat = "26 FEB 1994"
   # Meta data
   description = "Crescent Consulting | Data Engineering Consulting"
-  author = "StaticMania"
+  author = "CrescentConsulting"
   # Google Analitycs
-  googleAnalitycsID = "Your ID"
-  # We're using formspree.io for form handling, paste your formspree url below
-  fabform  = "https://fabform.io/f/USAg2Jl"
+  # googleAnalitycsID = "Your ID"
+  formspree  = "https://formspree.io/f/xzbwyyjg"
 
   # Contact Form
   [params.contactForm]
